@@ -1,2 +1,1 @@
-# Detect_species_data
-BLUESPOTTED data for species detection component
+The use of data images is free, however, publication of any image is subject to copyrights. Contact adibarash@hotmail.com for permission.
